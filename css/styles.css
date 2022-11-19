@@ -661,6 +661,10 @@ body {
   transform: translateY(0);
 }
 
+.post-list-link:focus .text-overlay {
+  transform: translateY(0);
+}
+
 /* ___________MODAL_______________ */
 
 .backdrop {
